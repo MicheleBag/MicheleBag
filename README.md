@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ciao! I'm Michele.<br>🔭 Currently looking for a software engineering job<br>👯 Recently got a master degree in Computer Engineering @ UniPG<br>🌱 I’m currently learning how to manage a Kubernetes cluster<br>⚡ Fun fact: I go hiking just to eat food in amazing places
+💬 Ciao! I'm Michele.<br>🔭 Currently looking for a software engineering job<br>👯 Recently got a master degree in Computer Engineering @ UniPG<br>🌱 Actually learning how to manage a Kubernetes cluster<br>⚡ Fun fact: I go hiking just to eat food in amazing places
 
 
 ## 🌐 Socials:
